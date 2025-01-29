@@ -6,7 +6,7 @@ from transformers import pipeline
 
 # Titre de l'application
 st.title("Analyse d'entraînement de course")
-st.write("Cette application analyse vos données d'entraînement pour vous fournir des insights et des recommandations.")
+st.write("Cette super application analyse vos données d'entraînement pour vous fournir des insights et des recommandations.")
 
 # Création de données simulées
 np.random.seed(42)
